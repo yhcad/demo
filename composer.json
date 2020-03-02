@@ -1,0 +1,14 @@
+{
+    "name": "yhcad/demo",
+    "description": "This is a composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yhcad",
+            "email": "yhcad@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
